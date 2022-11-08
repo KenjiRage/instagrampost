@@ -1,4 +1,4 @@
-# InstagramPost
+# Instagram Post
 ## Descripción
 Proyecto realizado para 4Geeks Academy España, como parte del Prework del curso Full Stack Developer
 
